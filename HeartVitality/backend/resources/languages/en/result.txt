@@ -1,0 +1,31 @@
+The model's result is positive. As such, there is a risk of having a cardiovascular disease.
+The model's result is negative. As such, there is no risk of having a cardiovascular disease.
+The results are not always correct. In order to cast away all doubts we recommend a medical trial performed by a specialised cardiovascular medic.
+Surname
+Family name
+Download result
+Cardiovascular diagnose form result
+Date of birth
+Gender
+Male
+Female
+Height
+Weight
+Systolic pressure
+Diastolic pressure
+Cholesterol level
+Glucose level
+Normal
+Increased
+Risky
+Are you an active smoker
+Do you usually consume alcohol
+Are you an active person
+yes
+no
+Result
+positive
+negative
+Created on
+Form_result
+Name

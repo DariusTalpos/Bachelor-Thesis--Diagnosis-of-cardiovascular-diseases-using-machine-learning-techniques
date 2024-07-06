@@ -1,0 +1,17 @@
+Classification model training and testing
+Algorithm
+Data transformation type
+Parameter optimization
+Model training and testing
+Set to be the app's used model
+Reset to original model
+Accuracy
+Confusion matrix
+Logarithmic loss
+Area under ROC curve
+There was no option chosen for the algorithm.
+There was no option chosen for the transformation.
+There was no option chosen for the parameter tuning.
+Tuning has not been verified for this algorithm.
+Yes
+No

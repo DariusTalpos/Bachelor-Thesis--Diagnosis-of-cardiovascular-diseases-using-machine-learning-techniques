@@ -1,0 +1,36 @@
+Cardiovascular disease diagnose form
+Date of birth
+Gender
+Male
+Female
+Height
+Weight
+Systolic pressure
+Diastolic pressure
+Cholesterol level
+Glucose level
+Normal
+Increased
+Risky
+Are you an active smoker
+Do you usually consume alcohol
+Are you an active person
+Yes
+No
+Send data
+Date of birth field has not been completed.
+The date of birth cannot be in the future.
+You have not selected an answer for gender.
+The height field has not been completed.
+Height cannot be negative.
+The weight field has not been completed.
+Weight cannot be negative.
+The systolic pressure field has not been completed.
+Systolic pressure cannot be negative.
+The diastolic pressure field has not been completed.
+Diastolic pressure cannot be negative.
+You have not selected an answer regarding cholesterol level.
+You have not selected an answer regarding glucose level.
+You have not selected an answer regarding how often you smoke.
+You have not selected an answer regarding how often you consume alcohol.
+You have not selected an answer regarding how often you exercise.

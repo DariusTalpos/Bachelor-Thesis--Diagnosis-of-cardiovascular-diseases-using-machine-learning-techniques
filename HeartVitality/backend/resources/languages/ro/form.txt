@@ -1,0 +1,36 @@
+Formular pentru diagnosticarea bolilor cardiovasculare
+Data nașterii
+Sexul
+Masculin
+Feminin
+Înălţimea
+Greutatea
+Tensiunea sistolică (mare)
+Tensiunea diastolică (mică)
+Nivelul de colesterol
+Nivelul de glucoză
+Normal
+Mărit
+Riscant
+Sunteţi un fumător activ
+Consumaţi alcool des
+Sunteţi o persoană activă
+Da
+Nu
+Trimiteţi datele
+Câmpul pentru data nașterii nu a fost completat.
+Data nașterii nu poate fi în viitor.
+Trebuie selectată o opțiune pentru sex.
+Câmpul pentru înălțime nu a fost completat.
+Înălțimea nu poate fi negativă.
+Câmpul pentru greutate nu a fost completat.
+Greutatea nu poate fi negativă.
+Câmpul pentru tensiunea sistolică nu a fost completat.
+Tensiunea sistolică nu poate fi negativă.
+Câmpul pentru tensiunea diastolică nu a fost completat.
+Tensiunea diastolică nu poate fi negativă.
+Trebuie selectată o opțiune pentru nivelul de colesterol.
+Trebuie selectată o opțiune pentru nivelul de glucoză.
+Trebuie selectată o opțiune pentru fumat.
+Trebuie selectată o opțiune pentru consumul de alcool.
+Trebuie selectată o opțiune pentru activiatea fizică.

@@ -1,0 +1,5 @@
+Numele de utilizator
+Parola
+Câmpul pentru numele de utilizator nu a fost completat.
+Câmpul pentru parolă nu a fost completat.
+Nu există niciun cont cu acest nume de utilizator și parolă.

@@ -1,0 +1,31 @@
+Rezultatul obținut de model este unul pozitiv. Există așadar riscul să suferiți de o boală cardiovasculară.
+Rezultatul obținut de model este unul negativ. Nu există așadar riscul să suferiți de o boală cardiovasculară.
+Rezultatele furnizate nu sunt întotdeauna corecte. Pentru a elimina orice suspiciune vă recomandăm un control medical realizat de un medic cardiolog specializat.
+Prenume
+Nume de familie
+Descărcare rezultat
+Rezultat formular diagnostic cardiovascular
+Data nasterii
+Sexul
+Masculin
+Feminin
+Inaltimea
+Greutatea
+Tensiunea sistolica (mare)
+Tensiunea diastolica (mica)
+Nivelul de colesterol
+Nivelul de glucoza
+Normal
+Marit
+Riscant
+Sunteti un fumator activ
+Consumati alcool des
+Sunteti o persoana activa
+da
+nu
+Rezultat
+pozitiv
+negativ
+Realizat la data de
+Rezultat_formular
+Nume

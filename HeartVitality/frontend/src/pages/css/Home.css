@@ -1,0 +1,15 @@
+.date-time-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.linebreak {
+    white-space: pre-wrap;
+}
+
+.scroll-content{
+    justify-content: center;
+    align-items: center!important;
+}

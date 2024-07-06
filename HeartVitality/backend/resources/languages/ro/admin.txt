@@ -1,0 +1,17 @@
+Antrenare și testare model de clasificare
+Algoritm
+Mod de transformare al datelor
+Optimizare a parametrilor
+Antrenare și testare model
+Setare ca model utilizat în aplicație
+Resetare la modelul original
+Acuratețe
+Matrice de confuzie
+Pierdere logaritmică
+Aria de sub curba ROC
+Nu a fost aleasă o opțiune pentru algoritm.
+Nu a fost aleasă o opțiune pentru transformarea datelor.
+Nu a fost aleasă o opțiune pentru optimizarea datelor.
+Optimizarea datelor nu a fost verificată pentru acest algoritm.
+Da
+Nu
