@@ -18,7 +18,7 @@
 
 <h2>HeartVitality</h2>
 <p><b>EN: </b></p>
-<p>HeartVitality is the application obtained as a result of the study performed in the thesis. It is a client-server application with the client written in TypeScript (using React) and the server written in Python (using Flask).
+<p>HeartVitality is the application obtained as a result of the study performed in the thesis. It is a client-server application with the client written in TypeScript (using Ionic React) and the server written in Python (using Flask).
 
 The main purpose of the application is to allow users to use machine learning algorithms in order to determine whether or not they possibly suffer from a cardiovascular disease based on some of their data. The main functionalities of the application are the following:
 <o1>
@@ -32,7 +32,7 @@ The main purpose of the application is to allow users to use machine learning al
 </p>
 
 <p><b>RO: </b></p>
-<p>HeartVitality este aplicația rezultată în urma studiului realizat în lucrare. Este o aplicație client-server cu clientul scris în TypeScript (folosind React) și serverul scris în Python (folosind Flask).
+<p>HeartVitality este aplicația rezultată în urma studiului realizat în lucrare. Este o aplicație client-server cu clientul scris în TypeScript (folosind Ionic React) și serverul scris în Python (folosind Flask).
 
 Scopul principal al aplicației este de a permite utilizatorilor să folosească algoritmi de învățare automată pentru a putea determina dacă există riscul ca aceștia să sufere de o boală cardiovasculară bazat pe anumite date. Principalele funcționalități ale aplicației sunt următoarele:
 <o1>
@@ -52,3 +52,9 @@ Scopul principal al aplicației este de a permite utilizatorilor să folosească
 <p><b>RO: </b></p>
 <p>DefaultModelGenerator este un program reprezentând un mediu de testare în care am comparat rezultatele mai multor algoritmi de învățare automată folosind multiple metrici de performanță. Cel mai eficient model (folosing algoritmul de Gradient Boosting și scalarea ca metodă de transformare a datelor) este folosit în aplicația HeartVitality ca model implicit.
 </p>
+
+<h2>Discaimer</h2>
+<p><b>EN: </b></p>
+<p>Some packages used in the frontend of the HeartVitality application were found to have vulnerabilities over time. As such, it is recommended not to run the application at least without updating the packages to their latest versions.</p>
+<p><b>EN: </b></p>
+<p>În unele pachete folosite în frontend-ul aplicației HeartVitality au fost descoperite vulnerabilități pe parcursul timpului. Ca atare, este recomandat ca aplicația să nu fie rulată fără actualizarea pachetelor la cele mai noi versiuni.</p>
