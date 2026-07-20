@@ -53,7 +53,7 @@ Scopul principal al aplicației este de a permite utilizatorilor să folosească
 <p>DefaultModelGenerator este un program reprezentând un mediu de testare în care am comparat rezultatele mai multor algoritmi de învățare automată folosind multiple metrici de performanță. Cel mai eficient model (folosing algoritmul de Gradient Boosting și scalarea ca metodă de transformare a datelor) este folosit în aplicația HeartVitality ca model implicit.
 </p>
 
-<h2>Discaimer</h2>
+<h2>Disclaimer</h2>
 <p><b>EN: </b></p>
 <p>Some packages used in the frontend of the HeartVitality application were found to have vulnerabilities over time. As such, it is recommended not to run the application at least without updating the packages to their latest versions.</p>
 <p><b>EN: </b></p>
